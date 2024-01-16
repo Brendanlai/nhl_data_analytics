@@ -1,0 +1,32 @@
+team_id,franchiseId,shortName,teamName,abbreviation,division,conference,num_wins,points_def,points_3210,ploffs_def,ploffs_3210,league_position_def,league_position_3210,delta,division_rank_def,division_rank_3210
+6,6,Boston,Bruins,BOS,ATL,east,44,100,138,,,1,1,0,1,1
+14,31,Tampa Bay,Lightning,TBL,ATL,east,45,96,132,,,3,3,0,2,2
+10,5,Toronto,Maple Leafs,TOR,ATL,east,36,81,109,,,12,13,1,3,3
+13,33,Florida,Panthers,FLA,ATL,east,35,78,108,,,20,15,5,4,4
+8,1,Montreal,Canadiens,MTL,ATL,east,31,71,90,,,24,24,0,5,5
+7,19,Buffalo,Sabres,BUF,ATL,east,30,68,90,,,25,25,0,6,6
+9,30,Ottawa,Senators,OTT,ATL,east,25,62,80,,,30,30,0,7,7
+17,12,Detroit,Red Wings,DET,ATL,east,17,39,52,,,31,31,0,8,8
+21,27,Colorado,Avalanche,COL,CEN,west,44,97,136,,,2,2,0,1,1
+19,18,St Louis,Blues,STL,CEN,west,42,95,128,,,5,5,0,2,2
+25,15,Dallas,Stars,DAL,CEN,west,38,84,110,,,9,10,1,3,3
+52,35,Winnipeg,Jets,WPG,CEN,west,37,80,110,,,14,11,3,4,4
+30,37,Minnesota,Wild,MIN,CEN,west,35,77,107,,,21,16,5,6,5
+18,34,Nashville,Predators,NSH,CEN,west,35,78,106,,,19,17,2,5,6
+53,28,Arizona,Coyotes,ARI,CEN,west,33,74,100,,,22,22,0,7,7
+16,11,Chicago,Blackhawks,CHI,CEN,west,32,72,95,,,23,23,0,8,8
+4,16,Philadelphia,Flyers,PHI,MET,east,44,95,129,,,4,4,0,1,1
+15,24,Washington,Capitals,WSH,MET,east,42,93,125,,,6,6,0,2,2
+5,17,Pittsburgh,Penguins,PIT,MET,east,40,86,115,,,8,8,0,3,3
+3,10,NY Rangers,Rangers,NYR,MET,east,37,79,110,,,16,12,4,7,4
+12,26,Carolina,Hurricanes,CAR,MET,east,38,81,108,,,11,14,3,4,5
+29,36,Columbus,Blue Jackets,CBJ,MET,east,33,81,106,,,13,18,5,5,6
+2,22,NY Islanders,Islanders,NYI,MET,east,35,80,104,,,15,21,-6,6,7
+1,23,New Jersey,Devils,NJD,MET,east,28,68,90,,,26,26,0,8,8
+54,38,Vegas,Golden Knights,VGK,PAC,west,42,92,124,,,7,7,0,1,1
+22,25,Edmonton,Oilers,EDM,PAC,west,37,83,114,,,10,9,1,2,2
+23,20,Vancouver,Canucks,VAN,PAC,west,36,78,105,,,18,19,1,4,3
+20,21,Calgary,Flames,CGY,PAC,west,36,79,104,,,17,20,3,3,4
+24,32,Anaheim,Ducks,ANA,PAC,west,29,67,87,,,27,27,0,5,5
+26,14,Los Angeles,Kings,LAK,PAC,west,29,64,85,,,28,28,0,6,6
+28,29,San Jose,Sharks,SJS,PAC,west,29,63,85,,,29,29,0,7,7

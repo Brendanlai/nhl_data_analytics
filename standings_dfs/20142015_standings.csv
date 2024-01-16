@@ -1,0 +1,31 @@
+team_id,franchiseId,shortName,teamName,abbreviation,division,conference,num_wins,points_def,points_3210,ploffs_def,ploffs_3210,league_position_def,league_position_3210,delta,division_rank_def,division_rank_3210
+14,31,Tampa Bay,Lightning,TBL,ATL,east,50,108,151,,,5,2,3,2,1
+8,1,Montreal,Canadiens,MTL,ATL,east,50,110,147,,,2,3,1,1,2
+17,12,Detroit,Red Wings,DET,ATL,east,43,100,132,,,12,12,0,3,3
+9,30,Ottawa,Senators,OTT,ATL,east,43,99,129,,,14,17,3,4,4
+6,6,Boston,Bruins,BOS,ATL,east,41,96,124,,,17,19,2,5,5
+13,33,Florida,Panthers,FLA,ATL,east,38,91,120,,,20,21,1,6,6
+10,5,Toronto,Maple Leafs,TOR,ATL,east,30,68,90,,,27,27,0,7,7
+7,19,Buffalo,Sabres,BUF,ATL,east,23,54,68,,,30,30,0,8,8
+19,18,St Louis,Blues,STL,CEN,west,51,109,146,,,4,4,0,1,1
+16,11,Chicago,Blackhawks,CHI,CEN,west,48,102,138,,,7,6,1,3,2
+30,37,Minnesota,Wild,MIN,CEN,west,46,100,138,,,11,7,4,4,3
+18,34,Nashville,Predators,NSH,CEN,west,47,104,137,,,6,9,3,2,4
+52,35,Winnipeg,Jets,WPG,CEN,west,43,99,131,,,13,14,1,5,5
+25,15,Dallas,Stars,DAL,CEN,west,41,92,125,,,19,18,1,6,6
+21,27,Colorado,Avalanche,COL,CEN,west,39,90,117,,,21,23,2,7,7
+53,28,Arizona,Coyotes,ARI,CEN,west,24,56,70,,,29,29,0,8,8
+3,10,NY Rangers,Rangers,NYR,MET,east,53,113,156,,,1,1,0,1,1
+15,24,Washington,Capitals,WSH,MET,east,45,101,136,,,10,10,0,3,2
+2,22,NY Islanders,Islanders,NYI,MET,east,47,101,135,,,9,11,2,2,3
+5,17,Pittsburgh,Penguins,PIT,MET,east,43,98,131,,,15,15,0,4,4
+29,36,Columbus,Blue Jackets,CBJ,MET,east,42,89,117,,,22,22,0,5,5
+4,16,Philadelphia,Flyers,PHI,MET,east,33,84,109,,,24,24,0,6,6
+1,23,New Jersey,Devils,NJD,MET,east,32,78,104,,,25,25,0,7,7
+12,26,Carolina,Hurricanes,CAR,MET,east,30,71,95,,,26,26,0,8,8
+24,32,Anaheim,Ducks,ANA,PAC,west,51,109,144,,,3,5,2,1,1
+23,20,Vancouver,Canucks,VAN,PAC,west,48,101,137,,,8,8,0,2,2
+26,14,Los Angeles,Kings,LAK,PAC,west,40,95,132,,,18,13,5,4,3
+20,21,Calgary,Flames,CGY,PAC,west,45,97,129,,,16,16,0,3,4
+28,29,San Jose,Sharks,SJS,PAC,west,40,89,123,,,23,20,3,5,5
+22,25,Edmonton,Oilers,EDM,PAC,west,24,62,79,,,28,28,0,6,6
